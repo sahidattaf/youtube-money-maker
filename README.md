@@ -1,21 +1,28 @@
-# AI YouTube Script Generator
+# YouTube Money Maker
 
-A React-based web application that helps content creators generate customized YouTube video scripts using AI-powered templates.
+A React-based application for generating YouTube video scripts and content ideas focused on making money online. Features AI-powered script generation and content optimization tools.
 
 ## Features
 
-- Customizable video script generation
-- Multiple video styles (Educational, Entertaining, Tutorial)
-- Target audience selection
-- Adjustable video length
-- Easy copy-to-clipboard functionality
-- Modern, responsive UI
+- 🎬 AI-powered YouTube script generation
+- 💰 Focus on monetization strategies and tools
+- 🚀 Easy-to-use interface for content creators
+- 📋 One-click copy functionality for generated scripts
 
-## Deployment to GitHub Pages
+## Getting Started
 
-To deploy this application to GitHub Pages, follow these steps:
+### Prerequisites
 
-1. Create a new repository on GitHub
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/sahidattaf/youtube-money-maker.git
+cd youtube-money-maker
+```
 
 2. Initialize git in your local project:
 ```bash
