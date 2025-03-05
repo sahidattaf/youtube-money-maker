@@ -1,4 +1,4 @@
-import AIVideoTemplate from "./AIVideoTemplate";
+import AIVideoTemplate from "./pages/AIVideoTemplate";
 import Navbar from "./components/Navbar";
 
 function App() {
