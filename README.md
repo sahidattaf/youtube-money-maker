@@ -21,6 +21,7 @@ A React-based application for generating YouTube video scripts and content ideas
 1. Clone the repository
 ```bash
 git clone https://github.com/sahidattaf/youtube-money-maker.git
+<<<<<<< HEAD
 cd youtube-money-maker
 ```
 
@@ -92,3 +93,7 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+=======
+cd youtube-money-maker# youtube-money-maker
+"A React-based application for generating YouTube video scripts and content ideas focused on making money online. Features AI-powered script generation and content optimization tools."
+>>>>>>> 1862d8ddb02a71375b3e0fb340b10c2bea06679a
